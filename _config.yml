@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Perpetual Abstraction
+tagline: Ramblings of a rogue mathematician
 author :
   name : Mandar Chandorkar
   email : mandar2812@gmail.com
@@ -104,7 +104,7 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-59996358-3'
     getclicky :
       site_id : 
     mixpanel :
