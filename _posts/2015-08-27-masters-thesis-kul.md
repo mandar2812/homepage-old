@@ -5,11 +5,12 @@ date: 2015-08-27
 layout: pdf
 categories: papers
 tags: svm,machine-learning
+file: Masters_Thesis_Mandar.pdf
 permalink: /papers/mai-thesis/
 ---
 
-Abstract
-====
+###Abstract
+
 
 We propose _FS-Scala_, a flexible and modular _Scala_ based implementation of the Fixed Size Least Squares Support Vector Machine (FS-LSSVM) for large data sets. The framework consists of a set of modules for (gradient and gradient free) optimization, model representation, kernel functions and evaluation of FS-LSSVM models.
 
@@ -17,8 +18,8 @@ A kernel based _Fixed-Size Least Squares Support Vector Machine_ (FS-LSSVM) mode
 
 Finally, we carry out experiments on benchmark data sets like _Forest Cover Type_, _Magic Gamma_ and _Adult_, recording the performance and tuning time of various kernel based FS-LSSVM models.
 
-FS-LSSVM: Formulation
-=======
+###FS-LSSVM: Formulation
+
 
 $$
 \begin{equation}
@@ -47,8 +48,18 @@ $$
 \end{align}
 $$
 
-Link
-====
+### Citation
+    
+    @mastersthesis{
+        author = {Chandorkar, M. H.},
+        title = {Fixed Size Least Squares Support Vector Machines:
+		A Scala based programming framework for Large Scale Classification},
+        school = {Katholieke Universitiet Leuven},
+        year = {2015}
+    }
+
+
+###Link
+
 _FS-Scala_ can be found [here](https://github.com/mandar2812/FS-Scala).
 
-<iframe src="https://drive.google.com/file/d/0BwmVAhMMfhhgazM4VkZwVm1RZGM/preview" width="800" height="600"></iframe>
