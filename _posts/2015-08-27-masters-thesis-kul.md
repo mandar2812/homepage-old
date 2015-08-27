@@ -7,4 +7,4 @@ categories: papers
 permalink: /papers/mai-thesis/
 ---
 
-<iframe src="https://drive.google.com/file/d/0BwmVAhMMfhhgazM4VkZwVm1RZGM/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/0BwmVAhMMfhhgazM4VkZwVm1RZGM/preview" onload="this.width=screen.width;this.height=screen.height;" width="100%" height="100%"></iframe>
