@@ -9,8 +9,8 @@ file: Masters_Thesis_Mandar.pdf
 permalink: /papers/mai-thesis/
 ---
 
-Fixed Size Least Squares Support Vector Machines: A Scala based programming framework for Large Scale Classification
-===
+###Fixed Size Least Squares Support Vector Machines: A Scala based programming framework for Large Scale Classification
+
 
 ###Abstract
 
