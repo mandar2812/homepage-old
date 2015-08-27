@@ -4,7 +4,7 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+  
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -12,6 +12,10 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  
+  <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
