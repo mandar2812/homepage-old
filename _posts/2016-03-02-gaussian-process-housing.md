@@ -1,7 +1,7 @@
 ---
 title: "Boston Housing Data: Gaussian Process Regression Models"
 description: Tutorial about GP regression on housing data using DynaML
-date: 2016-03-03
+date: 2016-03-02
 layout: post
 categories: posts
 tags: gaussian-processes,machine-learning,boston-housing,composite-kernels
