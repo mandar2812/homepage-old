@@ -30,7 +30,9 @@ author:
 # Custom vars
 github: https://github.com/mandar2812
 
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-gist
 
 pages_list:       
   About: '/about'

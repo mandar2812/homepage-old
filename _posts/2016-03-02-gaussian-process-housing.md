@@ -76,14 +76,14 @@ noise = new SEKernel(1.5, 1.5), grid = 5,
 step = 0.03, globalOpt = "GS", trainFraction = 0.45)
 ```
 
-```shell
+```
 16/03/03 20:17:42 INFO GridSearch: Optimum value of energy is: 246.38482492249904
 Configuration: Map(hurst -> 0.52, bandwidth -> 1.35, amplitude -> 1.35)
 16/03/03 20:17:42 INFO SVMKernel$: Constructing kernel matrix.
 16/03/03 20:17:42 INFO SVMKernel$: Dimension: 227 x 227
 ```
 
-```shell
+```
 16/03/03 20:17:43 INFO GPRegression: Generating error bars
 16/03/03 20:17:43 INFO RegressionMetrics: Regression Model Performance: Value
 16/03/03 20:17:43 INFO RegressionMetrics: ============================
@@ -95,7 +95,7 @@ Configuration: Map(hurst -> 0.52, bandwidth -> 1.35, amplitude -> 1.35)
 16/03/03 20:17:43 INFO RegressionMetrics: Model Yield: 0.7243148481557278
 16/03/03 20:17:43 INFO RegressionMetrics: Std Dev of Residuals: 6.289145946687416
 ```
-
+<br/>
 ![FBM-SE]({{ site.url }}/public/fbm-SE.png)
 
 <br/><br/>
@@ -119,13 +119,13 @@ new LaplacianKernel(2.5), noise = new RBFKernel(1.5),
 grid = 5, step = 0.03, globalOpt = "GS", trainFraction = 0.45)
 ```
 
-```shell
+```
 16/03/03 20:45:41 INFO GridSearch: Optimum value of energy is: 278.1603309851301
 Configuration: Map(hurst -> 0.4, beta -> 2.35, bandwidth -> 1.35)
 16/03/03 20:45:41 INFO SVMKernel$: Constructing kernel matrix.
 ```
 
-```shell
+```
 16/03/03 20:45:42 INFO GPRegression: Generating error bars
 16/03/03 20:45:42 INFO RegressionMetrics: Regression Model Performance: MEDV
 16/03/03 20:45:42 INFO RegressionMetrics: ============================
@@ -138,5 +138,14 @@ Configuration: Map(hurst -> 0.4, beta -> 2.35, bandwidth -> 1.35)
 16/03/03 20:45:42 INFO RegressionMetrics: Std Dev of Residuals: 6.287519509352036
 ```
 
+<br/>
 
 ![FBM-SE]({{ site.url }}/public/fbm-lap.png)
+
+<br/>
+
+## Source Code
+
+Below is the example program as a github gist, to view the original program in DynaML, click [here](https://github.com/mandar2812/DynaML/blob/master/src/main/scala/io/github/mandar2812/dynaml/examples/TestGPHousing.scala).
+
+{% gist mandar2812/bc5ff898ca921f22b5ee %}
