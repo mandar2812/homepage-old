@@ -50,7 +50,6 @@ $$
 In the `examples` folder of the DynaML repository, a program called `TestGPHousing.scala` can be used to test _GP_ models with various kernels, a typical call to `TestGPHousing` looks like.
 
 
-
 ```scala
 TestGPHousing(kernel = new ..., noise = new ..., grid = 10,
 step = 0.03, globalOpt = "GS", trainFraction = 0.45)
