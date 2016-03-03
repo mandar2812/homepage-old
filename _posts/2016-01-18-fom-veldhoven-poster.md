@@ -35,7 +35,7 @@ Kp   | Global geomagnetic storm index and is based on 3 hour measurements of the
 Dst | Average ring current around magnetic equator | hourly | Real Number  
 AE | The AE index is derived from geomagnetic variations in the horizontal component observed at selected (10-13) observatories along the auroral zone in the northern hemisphere | hourly | Real Number
 
-####D<sub>st</sub>
+#### D<sub>st</sub>
 
 We focus on modeling the [Disturbance Storm Time](https://en.wikipedia.org/wiki/Disturbance_storm_time_index), though our results can be generalised for the AE and K<sub>p</sub> indices as well. The chart below explains how different values of D<sub>st</sub> relate to the state of the Earth's magnetosphere.
 
@@ -45,11 +45,11 @@ Thus the modeling of D<sub>st</sub> is important in the recognition and predicti
 
 
 
-###Gaussian Process Regression
+### Gaussian Process Regression
 
 Given below is the formulation of a *Gaussian Process* regression model. For a detailed introduction on *Gaussian Processes* you can refer to the book written by [Ramussen and Williams](https://books.google.nl/books/about/Gaussian_Processes_for_Machine_Learning.html?id=vWtwQgAACAAJ&hl=en).
 
-####Assumptions
+#### Assumptions
 
 We assume that our target data are noisy observations of an unknown function $$ f(x) $$. This modeling assumption leads to a _Stochastic Process_ formulation for the prior distribution on this unknown function.
 
@@ -58,7 +58,7 @@ The existence of such a _stochastic process_ is established in the [Kolmogorov E
 We further assume that the finite dimensional distributions are multivariate gaussian, leading to the following set of equations for the finite dimensional distributions of the unknown function $$f(x)$$.
 
 
-####Formulation
+#### Formulation
 
 $$
 	\begin{align}
@@ -69,7 +69,7 @@ $$
 	\end{align}
 $$
   
-####Posterior Predictive Distribution
+#### Posterior Predictive Distribution
 In the presence of training data $$ X = (x_1, x_2, \cdot , x_n) \ y = (y_1, y_2, \cdot , y_n) $$, one may calculate using _Bayes Theorem_ the posterior predictive distribution $$ \mathbf{f_*}|X,\mathbf{y},X_* $$ assuming $$ X_* $$, the test inputs are known.
 
 
@@ -83,7 +83,7 @@ $$
 $$
 
 
-###Gaussian Process D<sub>st</sub> models: RBF vs FBM Kernels.
+### Gaussian Process D<sub>st</sub> models: RBF vs FBM Kernels.
 
 We model D<sub>st</sub> as a scalar valued function of the solar wind speed. 
 
@@ -99,7 +99,7 @@ In the equations above, $$ H \in (0,1] $$ and $$ \sigma $$ are the hyper-paramet
 
 We compare the performance of two _Gaussian Process_ regression models for D<sub>st</sub>, one with the _Radial Basis Function_ kernel given by $$ C_{rbf} $$ and the _Fractional Brownian Motion_ kernel given by $$ C_{fbm} $$. Both models are trained and tested on sub-sampled versions of the Omni data from the years 2007 and 2006 respectively.
 
-###Results
+### Results
 
 The performance metrics of both the constructed models on the test set are summarized below.
 
