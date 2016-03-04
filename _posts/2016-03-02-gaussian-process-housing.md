@@ -86,7 +86,7 @@ Configuration: Map(hurst -> 0.52, bandwidth -> 1.35, amplitude -> 1.35)
 
 ```
 16/03/03 20:17:43 INFO GPRegression: Generating error bars
-16/03/03 20:17:43 INFO RegressionMetrics: Regression Model Performance: Value
+16/03/03 20:17:43 INFO RegressionMetrics: Regression Model Performance: MEDV
 16/03/03 20:17:43 INFO RegressionMetrics: ============================
 16/03/03 20:17:43 INFO RegressionMetrics: MAE: 5.804371810611489
 16/03/03 20:17:43 INFO RegressionMetrics: RMSE: 7.676433880135313
