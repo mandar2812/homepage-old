@@ -5,6 +5,7 @@ date: 2015-08-27
 layout: pdf
 categories: papers
 tags: svm,machine-learning
+comments: True
 file: Masters_Thesis_Mandar.pdf
 permalink: /papers/mai-thesis/
 ---

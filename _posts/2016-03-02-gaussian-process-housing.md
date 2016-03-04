@@ -5,6 +5,7 @@ date: 2016-03-02
 layout: post
 categories: posts
 tags: gaussian-processes,machine-learning,boston-housing,composite-kernels
+comments: True
 permalink: /posts/gp-housing/
 ---
 
