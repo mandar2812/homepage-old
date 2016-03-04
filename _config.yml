@@ -36,5 +36,6 @@ gems:
 
 pages_list:       
   About: '/about'
+  Resume: '/resume'
   Archive: '/archive'
   Feed: '/atom.xml'
