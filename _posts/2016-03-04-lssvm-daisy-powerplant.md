@@ -52,16 +52,17 @@ _DaISy_ is a database of (artificial and real world) dynamic systems maintained 
 **Instances**: 200
 
 **Inputs**:
-	1. gas flow
-   	2. turbine valves opening
-   	3. super heater spray flow
-   	4. gas dampers
-   	5. air flow
+
+1. Gas flow
+2. Turbine valves opening
+3. Super heater spray flow
+4. Gas dampers
+5. Air flow
 
 **Outputs**:
-	6. steam pressure
-   	7. main stem temperature
-   	8. reheat steam temperature
+6. Steam pressure
+7. Main stem temperature
+8. Reheat steam temperature
 
 ## System Modelling
 
