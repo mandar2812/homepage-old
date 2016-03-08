@@ -30,7 +30,8 @@ The data set is unidimensional, so we can only train a Nonlinear Auto-Regressive
 
 For this problem we build models based on two kernels.
 
-1. Radial Basis Function (RBF):
+- **Radial Basis Function (RBF)**:
+
 $$
 	\begin{align}
 		& K(\mathbf{u},\mathbf{v}) = K_{rbf}(\mathbf{u},\mathbf{v}) \\
@@ -62,7 +63,8 @@ num_training = 200, num_test = 500, deltaT = 5)
 ![Santa Fe]({{ site.url }}/public/santa-fe-rbf-fit.png)
 
 
-2. Fractional Brownian Field (FBM):
+- **Fractional Brownian Field (FBM)**:
+
 $$
 	\begin{align}
 		& K(\mathbf{u},\mathbf{v}) = K_{fbm}(\mathbf{u},\mathbf{v}) \\
