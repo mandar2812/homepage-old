@@ -156,3 +156,10 @@ deltaT = 2, column = 8)
 ![water level]({{ site.url }}/public/steam-flow.png)
 
 <br/>
+
+
+## Source Code
+
+Below is the example program as a github gist, to view the original program in DynaML, click [here](https://github.com/mandar2812/DynaML/blob/master/src/main/scala/io/github/mandar2812/dynaml/examples/AbottPowerPlant.scala).
+
+{% gist mandar2812/d80a89d5f8edc64dc117 %}
