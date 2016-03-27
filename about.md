@@ -13,8 +13,8 @@ I created [DynaML](http://mandar2812.github.io/DynaML/), a Scala based open-sour
 
 <br/>
 
-_GitHub_: [mandar2812](https://github.com/mandar2812)
-_Research Gate_: [Profile](https://www.researchgate.net/profile/Mandar_Chandorkar)
-_Twitter_: [@Mandar\_2812](https://twitter.com/Mandar_2812)
-_LinkedIn_: [Profile](https://www.linkedin.com/in/mandarchandorkar)
+_GitHub_: [mandar2812](https://github.com/mandar2812) <br/>
+_Research Gate_: [Profile](https://www.researchgate.net/profile/Mandar_Chandorkar) <br/>
+_Twitter_: [@Mandar\_2812](https://twitter.com/Mandar_2812) <br/>
+_LinkedIn_: [Profile](https://www.linkedin.com/in/mandarchandorkar) <br/>
 
