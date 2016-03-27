@@ -9,7 +9,7 @@ permalink:           pretty
 #relative_permalinks: true
 # Setup
 title:               Perpetual Abstraction
-tagline:             Ramblings of a rogue Applied Mathematician
+tagline:             Ramblings of a rogue Mathematician
 paginate:            3
 baseurl:             ""
 
@@ -36,6 +36,7 @@ gems:
 
 pages_list:       
   About: '/about'
+  Research: '/research'
   Resume: '/resume'
   Archive: '/archive'
   Feed: '/atom.xml'
