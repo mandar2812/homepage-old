@@ -57,7 +57,7 @@ Open Source
 ------
 <br/>
 
-- [DynaML](https://github.com/mandar2812/DynaML): DynaML is an open source library targeted towards machine learning researchers and practitioners, written in the Scala programming language.
+- [DynaML](https://mandar2812.github.io/DynaML): DynaML is an open source library targeted towards machine learning researchers and practitioners, written in the Scala programming language.
 
 - [ScalaImageToolbox](https://github.com/mandar2812/ScalaImageToolbox): Scala language implementation of _Active Shape Models_ for the purpose of identification of incisors in dental radiographs. Submitted as a class project for the course _Computer Vision_. See the [report](https://www.academia.edu/22431301/Project_Computer_Vision_Active_Shape_Model_Implementation_for_Dental_Radiographs) for more details. 
 
