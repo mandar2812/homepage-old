@@ -9,6 +9,9 @@ comments: True
 permalink: /posts/gp-housing/
 ---
 
+------
+
+
 ## Boston Housing Data
 
 ![Boston: Representative Image]({{ site.url }}/public/boston-housing.jpg)

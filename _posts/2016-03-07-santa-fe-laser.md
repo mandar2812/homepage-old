@@ -9,6 +9,8 @@ comments: True
 permalink: /posts/santa-fe-laser/
 ---
 
+------
+
 ## System Identification
 For a short introduction to system identification and some common models refer to this previous [post](/posts/lssvm-power-plant). Below I give a short tour of the _Santa Fe Laser_ example which comes shipped with the [DynaML](https://github.com/mandar2812/DynaML) machine learning library.
 

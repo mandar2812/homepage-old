@@ -9,7 +9,7 @@ comments: True
 permalink: /posts/gp-abott-power-plant/
 ---
 
-## System Identification: Abott Power Plant, Champaign, Illinois
+------
 
 In this post, we use the [DynaML](mandar2812.github.io/DynaML) Scala machine learning environment to train Gaussian Process models to analyse time series data taken from a coal power plant.
 
