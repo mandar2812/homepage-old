@@ -9,6 +9,9 @@ comments: True
 permalink: /posts/logistic-wine-quality/
 ---
 
+------
+
+## Code
 
 ```scala
 TestLogisticWineQuality(stepSize = 0.2, maxIt = 120, mini = 1.0, training = 800,
