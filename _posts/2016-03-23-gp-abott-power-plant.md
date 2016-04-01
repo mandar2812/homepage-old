@@ -1,6 +1,6 @@
 ---
 title: "System Identification using Gaussian Processes: Abott Power Plant, Champaign, Illinois"
-description: Tutorial about Gaussian Process NARX models on Daisy power plant data using DynaML
+description: Tutorial about Gaussian Process NARX models on Abott power plant data using DynaML
 date: 2016-03-23
 layout: post
 categories: posts

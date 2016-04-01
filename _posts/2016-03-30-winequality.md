@@ -4,7 +4,7 @@ description: Tutorial: Training Neural Network classifiers on the wine quality d
 date: 2016-03-30
 layout: post
 categories: posts
-tags: neural-networks,machine-learning,classification,DynaML
+tags: neural-networks,machine-learning,classification,DynaML,wine-quality
 comments: True
 permalink: /posts/nn-wine-quality/
 ---
