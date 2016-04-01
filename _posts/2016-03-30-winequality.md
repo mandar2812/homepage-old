@@ -1,6 +1,6 @@
 ---
 title: "Neural Networks: Classification of Wine Quality"
-description: Tutorial about Gaussian Process NARX models on Daisy power plant data using DynaML
+description: Tutorial: Training Neural Network classifiers on the wine quality data, using DynaML
 date: 2016-03-30
 layout: post
 categories: posts
