@@ -47,8 +47,8 @@ The ```TestNNWineQuality``` program in the DynaML examples package contains all 
 
 ```scala
 TestNNWineQuality(hidden = 1, nCounts = List(2),
-acts = List("linear", "tansig"), stepSize = 0.05, maxIt = 30,
-mini = 1.0, alpha = 0.55,
+acts = List("linear", "tansig"), stepSize = 0.2, maxIt = 130,
+mini = 1.0, alpha = 0.0,
 training = 1000, test = 600,
 regularization = 0.001,
 wineType = "red")
@@ -71,8 +71,8 @@ wineType = "red")
 
 ```scala
 TestNNWineQuality(hidden = 1, nCounts = List(3),
-acts = List("linear", "tansig"), stepSize = 0.05, maxIt = 100,
-mini = 1.0, alpha = 0.65,
+acts = List("linear", "tansig"), stepSize = 0.16, maxIt = 100,
+mini = 1.0, alpha = 0.0,
 training = 1500, test = 3000,
 regularization = 0.001,
 wineType = "white")
