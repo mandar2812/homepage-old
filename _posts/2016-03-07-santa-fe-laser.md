@@ -43,9 +43,9 @@ $$
 $$
 
 ```scala
-SantaFeLaser(new RBFKernel(2.5), new DiracKernel(1.0),
-opt = Map("globalOpt" -> "GS", "grid" -> "10", "step" -> "0.1"),
-num_training = 200, num_test = 500, deltaT = 5)
+SantaFeLaser(new RBFKernel(1.5), new DiracKernel(1.0),
+opt = Map("globalOpt" -> "GS", "grid" -> "9", "step" -> "0.1"),
+num_training = 200, num_test = 500, deltaT = 2)
 ```
 
 ```
