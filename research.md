@@ -57,7 +57,7 @@ Open Source
 ------
 <br/>
 
-- [DynaML](https://mandar2812.github.io/DynaML): DynaML is an open source library targeted towards machine learning researchers and practitioners, written in the Scala programming language.
+- [DynaML](https://transcendent-ai-labs.github.io/DynaML): DynaML is an open source library targeted towards machine learning researchers and practitioners, written in the Scala programming language.
 
 - [PlasmaML](https://github.com/mandar2812/PlasmaML): A multi-language open source toolbox for machine learning applications in space plasmas.  
 
