@@ -6,8 +6,20 @@ title: Research
 Interests
 ------
 
+#### Uncertainty
+
+- Bayesian Inference
 - Stochastic processes
+- Uncertainty Quantification
+
+#### Applied Mathematics
+
 - Functional Analysis
+- Physical Systems, Mathematical Physics
+- Scientific Computing
+
+#### Machine Learning & Artificial Intelligence
+
 - Kernel based machine learning models: _Gaussian Processes_, _LS-SVM_
 - Time series/autoregressive models.
 - Machine learning software
