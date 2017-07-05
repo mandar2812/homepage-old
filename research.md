@@ -19,17 +19,23 @@ Interests
 Publications
 ------
 
+#### 2017
+
 - _Probabilistic Forecasting of the Disturbance Storm Time Index: An Autoregressive Gaussian Process approach_: M. Chandorkar, E. Camporeale, S. Wing.
 
-    2017 Space Weather, American Geophysical Society.
+    Space Weather, American Geophysical Society. (**accepted**)
+
+#### 2016
 
 - _On the propagation of uncertainties in radiation belt simulations_: E. Camporeale , Y. Shprits , M. Chandorkar, A. Drozdov, S. Wing
 
-    2016 Space Weather, American Geophysical Society.
+    Space Weather, American Geophysical Society.
+
+#### 2015
 
 - _Fixed-Size Least Squares Support Vector Machines: Scala Implementation for Large Scale Classification_: M. Chandorkar, R. Mall, O. Lauwers, J. A. K Suykens, B. De Moor.
 
-    2015 IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
+    IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
 
 -----------
 
