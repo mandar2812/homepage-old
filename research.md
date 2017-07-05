@@ -59,11 +59,16 @@ Projects
 
 _Sept 2015 -_
 
-### [Multiscale Dynamics](https://www.cwi.nl/research-groups/Multiscale-Dynamics), CWI Amsterdam
+### [Multiscale Dynamics](https://www.cwi.nl/research-groups/Multiscale-Dynamics), CWI Amsterdam & [TAO](https://tao.lri.fr/tiki-index.php) INRIA Paris-Saclay
 
 - _Title_: Machine Learning for Space Weather ([link](https://projects.cwi.nl/mlspaceweather/))
-- _Supervisor_: [Enrico Camporeale](http://homepages.cwi.nl/~camporea/index.shtml)
-- _Description_: Using _grey box_ and _black box_ models to enhance space weather predictions and simulations.
+- _Supervisor_: [Enrico Camporeale](http://homepages.cwi.nl/~camporea/index.shtml) & [Michele Sebag](https://www.lri.fr/~sebag/)
+- _Description_: Applying _Machine Learning_ and _Statistical Inference_ techniques to problems of Space, Magnetospheric and Heliospheric Physics. This includes:
+    1. Formulating, implementing and testing data-driven prediction models for geomagnetic activity
+    2. Performing statistical inference of important Magnetospheric parameters using satellite measurements.
+    3. Using variety of data sources to inform and improve physical understanding and prediction capability of geomagnetic phenomena.
+
+
 
 ### Masters Thesis
 
