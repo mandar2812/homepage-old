@@ -19,10 +19,17 @@ Interests
 Publications
 ------
 
-Authors | Title | Journal/Conference 
------------- | ------------- | -------------
-M. Chandorkar, R. Mall, O. Lauwers, J. A. K Suykens, B. De Moor | Fixed-Size Least Squares Support Vector Machines: Scala Implementation for Large Scale Classification | 2015 IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
+- _Probabilistic Forecasting of the Disturbance Storm Time Index: An Autoregressive Gaussian Process approach_: M. Chandorkar, E. Camporeale, S. Wing.
 
+    2017 Space Weather, American Geophysical Society.
+
+- _On the propagation of uncertainties in radiation belt simulations_: E. Camporeale , Y. Shprits , M. Chandorkar, A. Drozdov, S. Wing
+
+    2016 Space Weather, American Geophysical Society.
+
+- _Fixed-Size Least Squares Support Vector Machines: Scala Implementation for Large Scale Classification_: M. Chandorkar, R. Mall, O. Lauwers, J. A. K Suykens, B. De Moor.
+
+    2015 IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
 
 -----------
 
@@ -61,6 +68,6 @@ Open Source
 
 - [PlasmaML](https://github.com/mandar2812/PlasmaML): A multi-language open source toolbox for machine learning applications in space plasmas.  
 
-- [ScalaImageToolbox](https://github.com/mandar2812/ScalaImageToolbox): Scala language implementation of _Active Shape Models_ for the purpose of identification of incisors in dental radiographs. Submitted as a class project for the course _Computer Vision_. See the [report](https://www.academia.edu/22431301/Project_Computer_Vision_Active_Shape_Model_Implementation_for_Dental_Radiographs) for more details. 
+- [ScalaImageToolbox](https://github.com/mandar2812/ScalaImageToolbox): Scala language implementation of _Active Shape Models_ for the purpose of identification of incisors in dental radiographs. Submitted as a class project for the course _Computer Vision_. See the [report](https://www.academia.edu/22431301/Project_Computer_Vision_Active_Shape_Model_Implementation_for_Dental_Radiographs) for more details.
 
 - [recsys2014](https://github.com/mandar2812/recsys2014): This repository is a recommender algorithm evaluator based on the RecSys Challenge 2014. It uses the Twitter data set and generates recommendations as well as ranks tweets from the test set based on their predicted 'engagement' count.
