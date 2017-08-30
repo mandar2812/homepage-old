@@ -35,7 +35,7 @@ Publications
 
 - _Probabilistic Forecasting of the Disturbance Storm Time Index: An Autoregressive Gaussian Process approach_: M. Chandorkar, E. Camporeale, S. Wing.
 
-    Space Weather, American Geophysical Society. (**accepted**)
+    Space Weather, American Geophysical Society.
 
 #### 2016
 
