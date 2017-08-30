@@ -59,7 +59,7 @@ Projects
 
 _Sept 2015 -_
 
-### [Multiscale Dynamics](https://www.cwi.nl/research-groups/Multiscale-Dynamics), CWI Amsterdam & [TAO](https://tao.lri.fr/tiki-index.php) INRIA Paris-Saclay
+### [Multiscale Dynamics](https://www.cwi.nl/research/groups/multiscale-dynamics), CWI Amsterdam & [TAO](https://tao.lri.fr/tiki-index.php) INRIA Paris-Saclay
 
 - _Title_: Machine Learning for Space Weather ([link](https://projects.cwi.nl/mlspaceweather/))
 - _Supervisor_: [Enrico Camporeale](http://homepages.cwi.nl/~camporea/index.shtml) & [Michele Sebag](https://www.lri.fr/~sebag/)
