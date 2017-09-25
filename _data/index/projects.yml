@@ -1,0 +1,22 @@
+- name: DynaML
+  descr: "DynaML is a Scala environment for conducting research and education in Machine Learning."
+  image: dynaml_logo3_small.png
+  github: https://github.com/transcendent-ai-labs/DynaML
+
+- name: PlasmaML
+  descr: "Machine Learning tools for Space Weather and Plasma Physics."
+  github: https://github.com/transcendent-ai-labs/PlasmaML
+
+- name: ScalaImageToolbox
+  descr: "Scala language implementation of Active Shape Models for
+  the purpose of identification of incisors in dental
+  radiographs. Submitted as a class project for the course 'Computer
+  Vision'."
+  github: https://github.com/mandar2812/ScalaImageToolbox
+  
+- name: recsys2014
+  descr: "This repository is a recommender algorithm evaluator based
+  on the RecSys Challenge 2014. It uses the Twitter data set and
+  generates recommendations as well as ranks tweets from the test set
+  based on their predicted 'engagement' count."
+  github: https://github.com/mandar2812/recsys2014

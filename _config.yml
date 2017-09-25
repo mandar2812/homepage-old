@@ -1,42 +1,74 @@
-markdown: kramdown
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: "Perpetual Abstraction"
+email: mandar2812@gmail.com
+description: "Ramblings of a rogue mathematician."
+url: https://mandar2812.github.io # the base hostname & protocol for your site
+keywords: ["Applied Mathematics", "Machine Learning" ,"Physics",
+"Scala", "Open Source"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Amsterdam
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
 kramdown:
   input: GFM
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#relative_permalinks: true
-# Setup
-title:               Perpetual Abstraction
-tagline:             Ramblings of a rogue Mathematician
-paginate:            3
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Mandar Chandorkar
-  twitter:           Mandar_2812
-  email:             mandar2812@gmail.com
-  github:            mandar2812
-
-# Custom vars
-github: https://github.com/mandar2812
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
 gems: 
   - jekyll-paginate
   - jekyll-gist
-
-pages_list:       
-  About: '/about'
-  Research: '/research'
-  Resume: '/resume'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: "Mandar Chandorkar"
+  avatar: profile-pic.jpg
+  job: "PhD Researcher"
+  bio: "Applied mathematician working at the intersection of machine
+  learning, physics and computation. Working as a PhD student at the CWI, Amsterdam"
+  email: mandar2812@gmail.com
+  disqus-shortname: Mandar_2812
+  twitter: Mandar_2812 #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: mandar2812 #username
+  stackoverflow: "2412289/mandar2812" #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: mandarchandorkar #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

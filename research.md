@@ -83,14 +83,3 @@ _Oct 2015 - Sept 2016_
 
 --------
 
-Open Source
-------
-<br/>
-
-- [DynaML](https://transcendent-ai-labs.github.io/DynaML): DynaML is an open source library targeted towards machine learning researchers and practitioners, written in the Scala programming language.
-
-- [PlasmaML](https://github.com/mandar2812/PlasmaML): A multi-language open source toolbox for machine learning applications in space plasmas.  
-
-- [ScalaImageToolbox](https://github.com/mandar2812/ScalaImageToolbox): Scala language implementation of _Active Shape Models_ for the purpose of identification of incisors in dental radiographs. Submitted as a class project for the course _Computer Vision_. See the [report](https://www.academia.edu/22431301/Project_Computer_Vision_Active_Shape_Model_Implementation_for_Dental_Radiographs) for more details.
-
-- [recsys2014](https://github.com/mandar2812/recsys2014): This repository is a recommender algorithm evaluator based on the RecSys Challenge 2014. It uses the Twitter data set and generates recommendations as well as ranks tweets from the test set based on their predicted 'engagement' count.

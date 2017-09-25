@@ -1,0 +1,16 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: CWI, Amsterdam
+  link: https://www.cwi.nl/
+  date: Sept 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: PhD Researcher
+
+- name: Venturesity
+  link: http://www.facebook.com/
+  date: May 2014 - July 2017
+  job: Vice President, Course Operations
+
+- name: Jutera, Labs
+  link: https://www.perk.com/
+  date: 2012 - 2014
+  job: Software Developer

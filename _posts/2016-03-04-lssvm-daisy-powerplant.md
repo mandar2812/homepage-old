@@ -4,7 +4,7 @@ description: Tutorial about LSSVM based NARX models on Daisy power plant data us
 date: 2016-03-04
 layout: post
 categories: posts
-tags: lssvm,machine-learning,system-identification,kernels
+tags: lssvm machine-learning system-identification kernel-methods
 comments: True
 permalink: /posts/lssvm-power-plant/
 ---

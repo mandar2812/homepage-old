@@ -4,7 +4,7 @@ description: "Tutorial: Training a logistic regression model on the wine quality
 date: 2016-04-01
 layout: post
 categories: posts
-tags: logistic-regression,machine-learning,classification,DynaML,wine-quality
+tags: logistic-regression machine-learning classification DynaML wine-quality
 comments: True
 permalink: /posts/logistic-regression-wine-quality/
 ---

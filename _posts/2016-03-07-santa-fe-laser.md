@@ -4,7 +4,7 @@ description: Tutorial about GP based NAR models on Santa Fe laser data using Dyn
 date: 2016-03-07
 layout: post
 categories: posts
-tags: gaussian-process,machine-learning,system-identification,kernels,santa-fe-laser
+tags: gaussian-process machine-learning system-identification kernel-methods santa-fe-laser
 comments: True
 permalink: /posts/santa-fe-laser/
 ---

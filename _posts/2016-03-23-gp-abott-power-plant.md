@@ -4,7 +4,7 @@ description: Tutorial about Gaussian Process NARX models on Abott power plant da
 date: 2016-03-23
 layout: post
 categories: posts
-tags: gaussian-process,machine-learning,system-identification,kernels,DynaML
+tags: gaussian-process machine-learning system-identification kernel-methods DynaML
 comments: True
 permalink: /posts/gp-abott-power-plant/
 ---
