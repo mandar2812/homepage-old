@@ -11,7 +11,7 @@ permalink: /posts/gp-abott-power-plant/
 
 ------
 
-In this post, we use the [DynaML](mandar2812.github.io/DynaML) Scala machine learning environment to train Gaussian Process models to analyse time series data taken from a coal power plant.
+In this post, we use the [DynaML](https://transcendent-ai-labs.github.io/DynaML/) Scala machine learning environment to train Gaussian Process models to analyse time series data taken from a coal power plant.
 
 <br/>
 
