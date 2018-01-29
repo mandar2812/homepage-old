@@ -11,7 +11,7 @@ permalink: /posts/logistic-regression-wine-quality/
 
 ------
 
-In the previous [post](/posts/nn-wine-quality/), we trained [DynaML](/DynaML/)'s feed forward neural networks on the [wine quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) data set. Lets compare how single layer feed forward neural networks compare to a simple logistic regression trained using [_Gradient Descent_](/DynaML/optimization-primitives/#gradient-descent). The ```TestLogisticWineQuality``` program in the ```examples``` package does precisely that (check out the source code below). 
+In the previous [post](/posts/nn-wine-quality/), we trained [DynaML](/DynaML/)'s feed forward neural networks on the [wine quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) data set. Lets compare how single layer feed forward neural networks compare to a simple logistic regression trained using [_Gradient Descent_](https://transcendent-ai-labs.github.io/DynaML/core/core_opt_convex/#gradient-descent). The ```TestLogisticWineQuality``` program in the ```examples``` package does precisely that (check out the source code below). 
 
 ## Red Wine
 
