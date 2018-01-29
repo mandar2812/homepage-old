@@ -11,7 +11,7 @@ permalink: /posts/nn-wine-quality/
 
 ------
 
-The [_wine quality_](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) data set is a common example used to benchmark classification models. Here we use the [DynaML](mandar2812.github.io/DynaML) scala machine learning environment to train classifiers to detect 'good' wine from 'bad' wine. A short listing of the data attributes/columns is given below. The UCI archive has two files in the wine quality data set namely ```winequality-red.csv``` and ```winequality-white.csv```. We train two separate classification models, one for red wine and one for white. 
+The [_wine quality_](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) data set is a common example used to benchmark classification models. Here we use the [DynaML](https://transcendent-ai-labs.github.io/DynaML/) scala machine learning environment to train classifiers to detect 'good' wine from 'bad' wine. A short listing of the data attributes/columns is given below. The UCI archive has two files in the wine quality data set namely ```winequality-red.csv``` and ```winequality-white.csv```. We train two separate classification models, one for red wine and one for white. 
 
 ![Wine: Representative Image]({{ site.url }}/public/wine.jpg)
 
