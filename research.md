@@ -31,23 +31,23 @@ Interests
 Publications
 ------
 
+#### 2018
+
+- [_Probabilistic Forecasting of Geomagnetic Indices Using Gaussian Process Models_:](https://www.sciencedirect.com/science/article/pii/B9780128117880000093) M. Chandorkar, E. Camporeale. Pages 237-258, Machine Learning Techniques for Space Weather, Elsevier.
+
+- [_Multiple‐Hour‐Ahead Forecast of the Dst Index Using a Combination of Long Short‐Term Memory Neural Network and Gaussian Process_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018SW001898): M.A. Gruet, M. Chandorkar, A. Sicard, E. Camporeale. Space Weather, American Geophysical Society.
+
 #### 2017
 
-- _Probabilistic Forecasting of the Disturbance Storm Time Index: An Autoregressive Gaussian Process approach_: M. Chandorkar, E. Camporeale, S. Wing.
-
-    Space Weather, American Geophysical Society.
+- [_Probabilistic Forecasting of the Disturbance Storm Time Index: An Autoregressive Gaussian Process approach_](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017SW001627): M. Chandorkar, E. Camporeale, S. Wing. Space Weather, American Geophysical Society.
 
 #### 2016
 
-- _On the propagation of uncertainties in radiation belt simulations_: E. Camporeale , Y. Shprits , M. Chandorkar, A. Drozdov, S. Wing
-
-    Space Weather, American Geophysical Society.
+- [_On the propagation of uncertainties in radiation belt simulations_](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016SW001494): E. Camporeale , Y. Shprits , M. Chandorkar, A. Drozdov, S. Wing. Space Weather, American Geophysical Society.
 
 #### 2015
 
-- _Fixed-Size Least Squares Support Vector Machines: Scala Implementation for Large Scale Classification_: M. Chandorkar, R. Mall, O. Lauwers, J. A. K Suykens, B. De Moor.
-
-    IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
+- [_Fixed-Size Least Squares Support Vector Machines: Scala Implementation for Large Scale Classification_](https://ieeexplore.ieee.org/document/7376656): M. Chandorkar, R. Mall, O. Lauwers, J. A. K Suykens, B. De Moor. IEEE Symposium Series on Computational Intelligence: IEEE Symposium on Computational Intelligence in Big Data (2015 IEEE CIBD). [link](https://www.researchgate.net/publication/282704442_Fixed-Size_Least_Squares_Support_Vector_Machines_Scala_Implementation_for_Large_Scale_Classification)
 
 -----------
 
