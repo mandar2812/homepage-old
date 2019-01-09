@@ -6,7 +6,7 @@
 title: "Perpetual Abstraction"
 email: mandar2812@gmail.com
 description: "Ramblings of a rogue mathematician."
-url: http://localhost:4000 #mandar2812.github.io # the base hostname & protocol for your site
+url: mandar2812.github.io #mandar2812.github.io # the base hostname & protocol for your site
 keywords: ["Applied Mathematics", "Machine Learning" ,"Physics",
 "Scala", "Open Source"]
 
