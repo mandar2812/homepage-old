@@ -36,7 +36,7 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-gems: 
+plugins: 
   - jekyll-paginate
   - jekyll-gist
   

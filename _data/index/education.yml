@@ -1,13 +1,14 @@
 - name: Eindhoven University of Technology
   link: https://www.tue.nl/en/
   date: 2015 - 2019
-  descr: Doctor of Philosophy
+  descr: PhD
 
 - name: Katholieke Universeteit Leuven
   link: http://www.kuleuven.be/english/
   date: 2014 - 2015
-  descr: Master of Science, Artificial Intelligence
+  descr: MS, Artificial Intelligence
 
 - name: Indian Institute of Technology, Kharagpur
   link: http://iitkgp.ac.in
+  descr: "BTech & MTech, Manufacturing Science & Industrial Engineering"
   date: 2007 - 2012
