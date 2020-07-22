@@ -7,8 +7,15 @@ title: "Perpetual Abstraction"
 email: mandar2812@gmail.com
 description: "Ramblings of a rogue mathematician."
 url: http://mandar2812.github.io #mandar2812.github.io # the base hostname & protocol for your site
-keywords: ["Applied Mathematics", "Machine Learning" ,"Physics",
-"Scala", "Open Source"]
+keywords: [
+  "Applied Mathematics",
+  "Machine Learning",
+  "Physics",
+  "Scala",
+  "Python",
+  "Tensorflow",
+  "Open Source"
+]
 
 #
 ###################################
@@ -41,9 +48,9 @@ gems:
 owner:
   name: "Mandar Chandorkar"
   avatar: profile-pic.jpeg
-  job: "PhD Researcher"
+  job: "Data Scientist"
   bio: "Applied mathematician working at the intersection of machine
-  learning, physics and computation. Working as a PhD student at the CWI, Amsterdam"
+  learning, physics and computation. Working as a Data Scientist at Connecterra BV"
   email: mandar2812@gmail.com
   disqus-shortname: Mandar_2812
   twitter: Mandar_2812 #username

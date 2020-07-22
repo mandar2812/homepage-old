@@ -1,13 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Connecterra BV, Amsterdam
+  link: https://www.connecterra.io/
+  date: Dec 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: "Data Scientist - Machine Learning"
+
 - name: CWI, Amsterdam
   link: https://www.cwi.nl/
-  date: Sept 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: PhD Researcher
+  date: Sept 2015 - Nov 2019
+  job: "Researcher - Machine Learning for Space Physics"
 
 - name: Venturesity
   link: http://venturesity.com
-  date: May 2014 - July 2017
+  date: May 2014 - July 2014
   job: Vice President, Course Operations
 
 - name: Jutera, Labs
