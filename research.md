@@ -31,6 +31,12 @@ Interests
 Publications
 ------
 
+#### 2020
+
+- [_Bayesian Inference of Quasi‐Linear Radial Diffusion Parameters using Van Allen Probes_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JA027618): R. Sarma, M. Chandorkar, I. Zhelavskaya, Y. Shprits, A. Drozdov, E. Camporeale. Journal of Geophysical Research: Space Physics.
+
+- [_Dynamic Time-Lag Regression: Predicting What and When_:](https://openreview.net/forum?id=SkxybANtDB) M. Chandorkar, C. Furtlehner, B. Poduval, E. Camporeale, M. Sebag - International Conference on Learning Representations, 2020
+
 #### 2018
 
 - [_Probabilistic Forecasting of Geomagnetic Indices Using Gaussian Process Models_:](https://www.sciencedirect.com/science/article/pii/B9780128117880000093) M. Chandorkar, E. Camporeale. Pages 237-258, Machine Learning Techniques for Space Weather, Elsevier.
