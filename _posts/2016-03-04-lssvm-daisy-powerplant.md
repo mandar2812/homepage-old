@@ -41,7 +41,7 @@ $$
 
 ## DaISy: System Identification Database ([link](http://homes.esat.kuleuven.be/~smc/daisy/daisydata.html))
 
-_DaISy_ is a database of (artificial and real world) dynamic systems maintained by the [STADIUS](https://www.esat.kuleuven.be/stadius/) research group at KU Leuven. We will work with the power plant data set listed on the _DaISy_ home page in this post. Using [DynaML](https://mandar2812.github.io/DynaML), which comes preloaded with the power plant data, we will train [LSSVM](https://github.com/mandar2812/DynaML/wiki/Dual-LSSVM) models to predict the various output indicators of the power plant in question.
+_DaISy_ is a database of (artificial and real world) dynamic systems maintained by the [STADIUS](https://www.esat.kuleuven.be/stadius/) research group at KU Leuven. We will work with the power plant data set listed on the _DaISy_ home page in this post. Using [DynaML](https://tailhq.github.io/DynaML), which comes preloaded with the power plant data, we will train [LSSVM](https://github.com/tailhq/DynaML/wiki/Dual-LSSVM) models to predict the various output indicators of the power plant in question.
 
 ### Pont-sur-Sambre Power Plant Data ([link](ftp://ftp.esat.kuleuven.be/pub/SISTA/data/process_industry/powerplant.txt))
 
@@ -158,6 +158,6 @@ deltaT = 1, column = 8)
 
 ## Source Code
 
-Below is the example program as a github gist, to view the original program in DynaML, click [here](https://github.com/mandar2812/DynaML/blob/master/src/main/scala/io/github/mandar2812/dynaml/examples/DaisyPowerPlant.scala).
+Below is the example program as a github gist, to view the original program in DynaML, click [here](https://github.com/tailhq/DynaML/blob/master/src/main/scala/io/github/mandar2812/dynaml/examples/DaisyPowerPlant.scala).
 
 {% gist mandar2812/eb23b47adad66deb2f65 %}

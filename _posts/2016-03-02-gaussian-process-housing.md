@@ -16,7 +16,7 @@ permalink: /posts/gp-housing/
 
 ![Boston: Representative Image]({{ site.url }}/public/boston-housing.jpg)
 
-The _Housing_ data set is a popular regression benchmarking data set hosted on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing). It contains 506 records consisting of multivariate data attributes for various real estate zones and their housing price indices. The task is then to learn a regression model that can predict the price index or range. In this blog post, I use the [DynaML](https://github.com/mandar2812/DynaML) machine learning library to train the _GP_ models.
+The _Housing_ data set is a popular regression benchmarking data set hosted on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing). It contains 506 records consisting of multivariate data attributes for various real estate zones and their housing price indices. The task is then to learn a regression model that can predict the price index or range. In this blog post, I use the [DynaML](https://github.com/tailhq/DynaML) machine learning library to train the _GP_ models.
 
 The following meta-data is taken directly from the UCI repository, the final column indicating the property value.
 
@@ -39,7 +39,7 @@ The following meta-data is taken directly from the UCI repository, the final col
 
 ## Gaussian Process
 
-Given the lack of data volume (~500 instances) with respect to the dimensionality of the data (13), it makes sense to try smoothing or non-parametric models to model the unknown price function. For a detailed introduction to _Gaussian Processes_, refer to the famous [book](https://books.google.nl/books/about/Gaussian_Processes_for_Machine_Learning.html?id=vWtwQgAACAAJ&hl=en) by Ramussen and Williams. For a succint introduction, you can also refer to the DynaML [wiki](https://github.com/mandar2812/DynaML/wiki/Gaussian-Processes) pages.
+Given the lack of data volume (~500 instances) with respect to the dimensionality of the data (13), it makes sense to try smoothing or non-parametric models to model the unknown price function. For a detailed introduction to _Gaussian Processes_, refer to the famous [book](https://books.google.nl/books/about/Gaussian_Processes_for_Machine_Learning.html?id=vWtwQgAACAAJ&hl=en) by Ramussen and Williams. For a succint introduction, you can also refer to the DynaML [wiki](https://github.com/tailhq/DynaML/wiki/Gaussian-Processes) pages.
 
 $$
 	\begin{align}

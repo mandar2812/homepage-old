@@ -13,27 +13,27 @@
     <ul>
       <li>
         Data pre-processing using functional transformations. 
-        These transformations or <a href='https://transcendent-ai-labs.github.io/DynaML/pipes/pipes/'><i>pipes</i></a>, 
+        These transformations or <a href='https://tailhq.github.io/DynaML/pipes/pipes/'><i>pipes</i></a>, 
         can be joined to form complex processing pipelines.
       </li>
       
       <li>
-        Training <a href='https://transcendent-ai-labs.github.io/DynaML/core/core_model_hierarchy/'>predictive models</a>, 
+        Training <a href='https://tailhq.github.io/DynaML/core/core_model_hierarchy/'>predictive models</a>, 
         with a special focus on <i>stochastic processes</i>, <i>kernel methods</i> & <i>neural networks</i>. 
         The <a href='https://github.com/transcendent-ai-labs/DynaML/wiki/Models'>model API</a> can be extended
         to implement customized and complicated algorithms.
       </li>
       
       <li>
-        <a href='https://transcendent-ai-labs.github.io/DynaML/core/core_opt_global/'>Model tuning</a> & hyper-parameter optimization.
+        <a href='https://tailhq.github.io/DynaML/core/core_opt_global/'>Model tuning</a> & hyper-parameter optimization.
       </li>
       
       <li>
-        <a href='https://transcendent-ai-labs.github.io/DynaML/core/core_model_evaluation/'>Model evaluation</a>
+        <a href='https://tailhq.github.io/DynaML/core/core_model_evaluation/'>Model evaluation</a>
       </li>
       
       <li>
-        Visualization: two and <a href='https://transcendent-ai-labs.github.io/DynaML/core/core_graphics/'>three</a> dimensional charts.
+        Visualization: two and <a href='https://tailhq.github.io/DynaML/core/core_graphics/'>three</a> dimensional charts.
       </li>
     </ul>
     "
